@@ -1,0 +1,48 @@
+<table border='2px'><tr bgcolor='#87AFC6'>
+                <td>S.N</td>
+                <th class="search">Emp No</th>
+                <th class="search">Emp Name</th>
+                <th class="search">Loan Description</th>
+                <th class="search">Loan Amount</th>
+                <th class="search">Loan Granted date</th>
+                <th class="search">Installment</th>
+                <th class="search">Amount Payed</th>
+                <th class="search">Loan Balance</th>
+                <th class="search">Installment Due</th>
+            </tr>
+                        <td>1</td>
+                        <td>2</td>
+                                                                                                                                        <td>sehan thiwanka</td>
+                                                        <td>home</td>
+                        <td>100000</td>
+                        <td>2019-05-09</td>
+                        <td>1200</td>
+                        <td>9600</td>
+                        <td>4800</td>
+                        <td>4</td>
+
+                    </tr>
+                        <td>2</td>
+                        <td>2</td>
+                                                                                                                                        <td>sehan thiwanka</td>
+                                                        <td>home</td>
+                        <td>10000</td>
+                        <td>2019-05-18</td>
+                        <td>1520</td>
+                        <td>9120</td>
+                        <td>9120</td>
+                        <td>6</td>
+
+                    </tr>
+                        <td>3</td>
+                        <td>1</td>
+                                                                                    <td>nishal thiwanka</td>
+                                                        <td>home</td>
+                        <td>100000</td>
+                        <td>2019-05-23</td>
+                        <td>9.17</td>
+                        <td>45.85</td>
+                        <td>64.19</td>
+                        <td>7</td>
+
+                    </tr></table>

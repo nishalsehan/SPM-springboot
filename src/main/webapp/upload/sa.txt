@@ -1,0 +1,18 @@
+Form the catering main menu reception can access add update delete foods functions and ordering function
+Add Foods 
+	We should input food name, food price and menu time
+	After press enter those parameters were added to a Food object 
+	then it added to a ArrayList specific to menu time
+Update Price
+	We should input food name, updated food price and menu time
+	Then it will check for food object that contain food name from the specific food menu ArrayList
+	Then it update the food price of that food object
+Delete foods
+	We should input food name and menu time
+	Then it will check for food object that contain food name from the specific food menu ArrayList
+	Then it delete that food object
+Ordering function
+	First we should input the menu time(breakfast/lunch/dinner)
+	Then it will display the food menu specific to given menu time
+	After that it request food that should be order until we input -1
+	Then the bill will display with food details and the total price.
